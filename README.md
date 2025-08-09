@@ -19,10 +19,10 @@ The main goal is to identify factors that contribute to customer attrition and p
     - Tenure
   - Key percentage comparisons for churned vs. retained customers
 - **Key Insights**
-  - Customers paying via **Electronic Check** have the highest churn rate (~40%).
+  - Customers paying via **Electronic Check** have the highest churn rate (~45%).
   - Customers with **Fiber Optic** internet have a churn rate above 40%.
   - **Month-to-month contracts** are the most vulnerable to churn.
-  - Most churn happens within the **first 5 months** (~50% of churned customers).
+  - Most churn happens within the **first 5 months** (~40% of churned customers).
 
 ---
 
